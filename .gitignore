@@ -1,0 +1,10 @@
+# maven project
+target/
+
+# idea project
+.idea/
+*.iml
+*.imp
+
+# netbean project
+nb-configuration.xml
