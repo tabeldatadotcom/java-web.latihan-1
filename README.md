@@ -12,6 +12,14 @@ Buatlah aplikasi CRUD (Create Read Update Delete) sederhana dengan studikasus pe
 3. Setelah selesai mengerjakan atau waktu habis push ke repository anda masing masing.
 4. Tambahkan user `dimMaryanto93` ke collaborators
 
+## Ketentuan & Syarat
+
+* Buat user/role dengan nama `bootcamp_latihan` dengan password `latihan`
+* Buat schema dengan nama `latihan_1`
+* Boleh buka buku, opensource, internet, video tutorial dll.
+* Waktu mengerjakan bebas (tidak harus jam kantor / jam 9 pagi s/d 5 sore)
+* Selesai tidak selesai harus di push pada hari **Rabu, 27 September 2017** pukul **24.00** jeka lebih dianggap gugur (Tidak boleh ikut materi selanjutnya).
+
 ## Struktur data
 
 1. table pasien
