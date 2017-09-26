@@ -18,7 +18,7 @@ Buatlah aplikasi CRUD (Create Read Update Delete) sederhana dengan studikasus pe
 * Buat schema dengan nama `latihan_1`
 * Boleh buka buku, opensource, internet, video tutorial dll.
 * Waktu mengerjakan bebas (tidak harus jam kantor / jam 9 pagi s/d 5 sore)
-* Selesai tidak selesai harus di push pada hari **Rabu, 27 September 2017** pukul **24.00** jeka lebih dianggap gugur (Tidak boleh ikut materi selanjutnya).
+* Selesai tidak selesai harus di push **max** tanggal **Rabu, 27 September 2017** pukul **24.00**
 
 ## Struktur data
 
