@@ -57,7 +57,7 @@ Buatlah aplikasi CRUD (Create Read Update Delete) sederhana dengan studikasus pe
 | dokter_id       | integer                 | fk references tab dokter  |
 | ruang_id        | integer                 | fk references tab ruang   |
 | waktu_register  | timestamp without zone  | not null                  |
-| waktu_checkout  | timestamp without zone  | not null                  |
+| waktu_checkout  | timestamp without zone  | null                      |
 
 
 ## Waktu penyelesaian (2 Hari)
